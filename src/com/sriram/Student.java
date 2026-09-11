@@ -1,5 +1,5 @@
 package com.sriram;
-
+//update from eclipse
 public class Student {
 	static String collegeName="VIT"; 
 	int studentId;
